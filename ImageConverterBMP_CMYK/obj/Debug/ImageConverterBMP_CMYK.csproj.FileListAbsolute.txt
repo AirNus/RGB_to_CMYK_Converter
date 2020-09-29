@@ -1,0 +1,10 @@
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\bin\Debug\ImageConverterBMP_CMYK.exe.config
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\bin\Debug\ImageConverterBMP_CMYK.exe
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\bin\Debug\ImageConverterBMP_CMYK.pdb
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\obj\Debug\ImageConverterBMP_CMYK.csprojAssemblyReference.cache
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\obj\Debug\ImageConverterBMP_CMYK.Main_form.resources
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\obj\Debug\ImageConverterBMP_CMYK.Properties.Resources.resources
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\obj\Debug\ImageConverterBMP_CMYK.csproj.GenerateResource.cache
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\obj\Debug\ImageConverterBMP_CMYK.csproj.CoreCompileInputs.cache
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\obj\Debug\ImageConverterBMP_CMYK.exe
+C:\Users\Ainur\source\repos\ImageConverterBMP_CMYK\ImageConverterBMP_CMYK\obj\Debug\ImageConverterBMP_CMYK.pdb
